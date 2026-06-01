@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- Open To Work Banner -->
-<img src="https://img.shields.io/badge/🟢%20OPEN%20TO%20WORK-SDE%20%7C%20Data%20Engineer%20%7C%20AI%20Engineer%20%7C%20QA%20Engineer-brightgreen?style=for-the-badge&logoColor=white" alt="Open To Work" />
+<img src="https://img.shields.io/badge/🟢%20OPEN%20TO%20WORK-Data%20Engineer%20%7C%20Cloud%20Engineer%20%7C%20DevOps%20Engineer%20%7C%20Software%20Engineer%20%7C%20Data%20Analyst%20%7C%20AI%20Engineer-brightgreen?style=for-the-badge&logoColor=white" alt="Open To Work" />
 
 <br/><br/>
 
 <!-- Animated Typing Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Rishu+Yadav+%F0%9F%91%8B;Data+Engineer+%7C+AI+Engineer+%7C+SDE;Azure+%7C+PySpark+%7C+LLMs+%7C+RAG;500%2B+DSA+Problems+Solved+%F0%9F%9A%80;Building+Scalable+Data+Pipelines+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00C8FF&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Rishu+Yadav+%F0%9F%91%8B;Data+Engineer+%7C+Cloud+Engineer;DevOps+Engineer+%7C+Software+Engineer;Data+Analyst+%7C+AI+Engineer;Azure+%7C+PySpark+%7C+LLMs+%7C+RAG+%F0%9F%94%A5;500%2B+DSA+Problems+Solved+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -225,7 +225,7 @@ interests   :
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/💼%20Open%20To-SDE%20%7C%20Data%20Engineer%20%7C%20AI%20Engineer%20%7C%20QA%20Engineer-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/💼%20Open%20To-Data%20Engineer%20%7C%20Cloud%20Engineer%20%7C%20DevOps%20Engineer%20%7C%20Software%20Engineer%20%7C%20Data%20Analyst%20%7C%20AI%20Engineer-success?style=for-the-badge" />
 
 <br/><br/>
 

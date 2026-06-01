@@ -151,14 +151,25 @@ interests   :
       </p>
     </td>
     <td width="50%">
-      <h3>⚙️ More on GitHub →</h3>
-      <p>Explore more projects including ML experiments, API services, DSA solutions, and GenAI prototypes.</p>
-      <a href="https://github.com/ris-gzp?tab=repositories">
-        <img src="https://img.shields.io/badge/View%20All%20Repos-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <h3>💡 DSA Practice</h3>
+      <p>Active daily DSA workspace — Python solutions across <b>arrays, strings, trees, graphs</b> and <b>dynamic programming</b>. Includes an auto-commit script that detects new functions and generates descriptive commit messages automatically.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/500%2B%20Problems-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/Daily%20Practice-brightgreen?style=flat-square" />
+      </p>
+      <a href="https://github.com/ris-gzp/dsa-practice">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white" />
       </a>
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <a href="https://github.com/ris-gzp?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
 ---
 
